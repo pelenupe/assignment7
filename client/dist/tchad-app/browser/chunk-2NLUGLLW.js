@@ -1,0 +1,1 @@
+import{K as i,L as r,M as a,Y as m,ha as p,m as o}from"./chunk-LVKG5EOH.js";var d=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-root"]],standalone:!0,features:[m],decls:2,vars:0,template:function(n,l){n&1&&(i(0,"main"),a(1,"router-outlet"),r())},dependencies:[p],encapsulation:2});let t=e;return t})();export{d as a};
