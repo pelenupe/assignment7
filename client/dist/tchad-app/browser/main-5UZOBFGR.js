@@ -1,1 +1,0 @@
-import{a as n}from"./chunk-2NLUGLLW.js";import{ea as p,ga as t,ia as r}from"./chunk-LVKG5EOH.js";var e=[{path:"",loadComponent:()=>import("./chunk-IMZKWECN.js").then(o=>o.AppComponent),children:[{path:"",loadComponent:()=>import("./chunk-DBSXAR2B.js").then(o=>o.CompaniesComponent)}]}];var m={providers:[r(e),p()]};t(n,m).catch(o=>console.error(o));
